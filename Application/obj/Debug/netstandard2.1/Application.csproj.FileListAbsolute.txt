@@ -1,0 +1,13 @@
+D:\git\Reactivities\Application\bin\Debug\netstandard2.1\Application.deps.json
+D:\git\Reactivities\Application\bin\Debug\netstandard2.1\Application.dll
+D:\git\Reactivities\Application\bin\Debug\netstandard2.1\Application.pdb
+D:\git\Reactivities\Application\bin\Debug\netstandard2.1\Domain.dll
+D:\git\Reactivities\Application\bin\Debug\netstandard2.1\Persistence.dll
+D:\git\Reactivities\Application\bin\Debug\netstandard2.1\Domain.pdb
+D:\git\Reactivities\Application\bin\Debug\netstandard2.1\Persistence.pdb
+D:\git\Reactivities\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+D:\git\Reactivities\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+D:\git\Reactivities\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+D:\git\Reactivities\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+D:\git\Reactivities\Application\obj\Debug\netstandard2.1\Application.dll
+D:\git\Reactivities\Application\obj\Debug\netstandard2.1\Application.pdb
